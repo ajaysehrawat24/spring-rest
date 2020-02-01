@@ -1,0 +1,2 @@
+this code extracts hibernate settings from /app/src/main/resources/persistence-mysql.properties
+part of all java project config
